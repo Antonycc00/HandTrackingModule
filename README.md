@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="bsod 2" src="https://github.com/user-attachments/assets/589c4312-fbf2-494c-bc41-65f922230cb8" />
+
 
 Hand Tracking & Gesture Control
 A Python-based computer vision project that detects hand landmarks in real-time and uses gestures to interact with the system (e.g., controlling system volume).

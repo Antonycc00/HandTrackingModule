@@ -24,8 +24,6 @@ Math: Calculates the Euclidean distance between specific landmarks to determine 
 
 Ctypes: Maps the calculated distance to the master volume levels of your operating system.
 
-2. Run the main script:
-   ```bash
 python hand_control.py
 Gestures:
 

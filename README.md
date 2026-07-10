@@ -1,4 +1,5 @@
 
+<img width="642" height="512" alt="handtracking" src="https://github.com/user-attachments/assets/11b7708a-0016-41a0-8cb8-571374674e96" />
 
 Hand Tracking & Gesture Control
 A Python-based computer vision project that detects hand landmarks in real-time and uses gestures to interact with the system (e.g., controlling system volume).
